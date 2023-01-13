@@ -1,10 +1,6 @@
-/* .route__list {
-  color: aqua;
-  background-color: brown;
-} */
 
 .flex {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   margin: 0 auto;
 }
