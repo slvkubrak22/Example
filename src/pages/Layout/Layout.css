@@ -1,0 +1,25 @@
+.nav {
+  margin-bottom: 30px;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.nav__item {
+  background-color: grey;
+  padding: 4px;
+  border-radius: 10px;
+}
+
+.nav__item:hover {
+  background-color: silver;
+}
+
+.nav__link {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+}
